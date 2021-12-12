@@ -6,6 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "first_lesson": "node first_lesson.js",
+    "second_lesson": "node second_lesson.js",
+    "third_lesson": "node third_lesson.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
