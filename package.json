@@ -24,6 +24,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^8.2.0",
+    "socket.io": "^4.4.0",
     "yargs": "^17.3.0"
   },
   "bin": {
